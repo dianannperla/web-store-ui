@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div>
       <ProductCard 
-        title='Product 1'
-        price='$200.00'
+        title='Premium Product'
+        price='$199.99'
         image='image-url'
       />
     </div>
