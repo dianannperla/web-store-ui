@@ -9,6 +9,7 @@ const App = () => {
         price={199.99}
         image='image-url'
         description='This is a high-quality premium product.'
+        inStock={true}
       />
     </div>
   );
