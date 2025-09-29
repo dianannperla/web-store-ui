@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <ProductCard 
-        title='Premium Product'
+        title='Premium Comfort Chair'
         price={199.99}
         image='image-url'
         description='This is a high-quality premium product.'
