@@ -10,6 +10,7 @@ const App = () => {
         image='image-url'
         description='This is a high-quality premium product.'
         inStock={true}
+        category='Furniture'  // Added category prop for better categorization
       />
     </div>
   );
