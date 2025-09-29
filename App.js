@@ -6,7 +6,7 @@ const App = () => {
     <div>
       <ProductCard 
         title='Premium Product'
-        price='199.99 USD'
+        price={199.99}
         image='image-url'
       />
     </div>
